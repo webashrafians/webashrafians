@@ -20,3 +20,5 @@ Skills: HTML/CSS/Sass/Bootstrap/Tailwind/Javascript/Wordpress
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/webashrafians/contributions?format=svg&private=false)  
 
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/webashrafians)  
+
